@@ -1,4 +1,4 @@
-PWD /Users/KarlFredrik/Documents/academian_sangbok
+PWD /Users/kf/Documents/avnsp-sångbok/avnsp-sangbok
 INPUT /usr/local/texlive/2016/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -170,11 +170,11 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
-OUTPUT main.toc
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplri9e.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/vf/adobe/palatino/pplri9e.vf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
+OUTPUT main.toc
 OUTPUT sanger_inom_academian.aux
 INPUT sanger_inom_academian.tex
 INPUT sanger_inom_academian.tex

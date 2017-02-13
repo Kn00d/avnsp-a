@@ -1,52 +1,81 @@
 \select@language {swedish}
-\contentsline {chapter}{\numberline {1}S\IeC {\r a}nger inom Academian}{5}
-\contentsline {section}{\numberline {1.1}Arbetslunchvisan}{5}
-\contentsline {section}{\numberline {1.2}F\IeC {\"o}rsta Snapsvisan}{5}
-\contentsline {section}{\numberline {1.3}Den i:te snapsvisan}{6}
-\contentsline {section}{\numberline {1.4}\IeC {\"A}n en g\IeC {\r a}ng d\IeC {\"a}ran...}{6}
-\contentsline {chapter}{\numberline {2}Fina Visor}{8}
-\contentsline {section}{\numberline {2.1}Du gamla, du fria}{8}
-\contentsline {section}{\numberline {2.2}Kungss\IeC {\r a}ngen}{8}
-\contentsline {section}{\numberline {2.3}O gamla klang - och jubeltid}{10}
-\contentsline {chapter}{\numberline {3}Vinvisor}{12}
-\contentsline {section}{\numberline {3.1}Bordeaux, Bordeaux}{12}
-\contentsline {section}{\numberline {3.2}Feta Fransyskor}{12}
-\contentsline {section}{\numberline {3.3}Inre dialog}{13}
-\contentsline {section}{\numberline {3.4}I Frankrike dricks det viner}{14}
-\contentsline {section}{\numberline {3.5}Sudda sudda}{14}
-\contentsline {section}{\numberline {3.6}Undulaten}{14}
-\contentsline {section}{\numberline {3.7}V\IeC {\r a}rvinets lov}{15}
-\contentsline {section}{\numberline {3.8}Franska vanor}{16}
-\contentsline {section}{\numberline {3.9}Imsig vimsig}{17}
-\contentsline {section}{\numberline {3.10}R\IeC {\"o}d vitamin}{17}
-\contentsline {chapter}{\numberline {4}Snapsvisor}{19}
-\contentsline {section}{\numberline {4.1}Livet \IeC {\"a}r h\IeC {\"a}rligt}{19}
-\contentsline {section}{\numberline {4.2}Festen kan b\IeC {\"o}rja}{19}
-\contentsline {section}{\numberline {4.3}Denna thaft}{20}
-\contentsline {section}{\numberline {4.4}Hell and gore}{20}
-\contentsline {section}{\numberline {4.5}Mera br\IeC {\"a}nnvin i glasen}{21}
-\contentsline {section}{\numberline {4.6}M\IeC {\r a}nvisa}{21}
-\contentsline {section}{\numberline {4.7}Risjerk}{21}
-\contentsline {section}{\numberline {4.8}Om cykla}{22}
-\contentsline {section}{\numberline {4.9}R\IeC {\"o}da havet}{22}
-\contentsline {section}{\numberline {4.10}T\IeC {\r a}rtsupen}{23}
-\contentsline {section}{\numberline {4.11}Slutet s\IeC {\"a}llskap}{23}
-\contentsline {section}{\numberline {4.12}F\IeC {\"o}r att m\IeC {\"a}nniskan}{23}
-\contentsline {section}{\numberline {4.13}Byssan lull}{23}
-\contentsline {section}{\numberline {4.14}En liten g\IeC {\r a}sap\IeC {\r a}g med Sk\IeC {\r a}ne}{24}
-\contentsline {section}{\numberline {4.15}J\IeC {\"a}sa, j\IeC {\"a}sa br\IeC {\"a}nnvin}{24}
-\contentsline {section}{\numberline {4.16}Be Be vitamin}{25}
-\contentsline {section}{\numberline {4.17}Br\IeC {\"a}nnvin \IeC {\"a}r s\IeC {\r a} j\IeC {\"a}kla gott}{25}
-\contentsline {section}{\numberline {4.18}Den siamesiska tvillingen}{25}
-\contentsline {chapter}{\numberline {5}Gl\IeC {\"o}ggvisor}{27}
-\contentsline {section}{\numberline {5.1}Gl\IeC {\"o}ggvisa}{27}
-\contentsline {section}{\numberline {5.2}Gl\IeC {\"o}ggvisan}{27}
-\contentsline {chapter}{\numberline {6}\IeC {\"O}lvisor}{29}
-\contentsline {section}{\numberline {6.1}En pilsnerdrickare}{29}
-\contentsline {section}{\numberline {6.2}H\IeC {\"a}sthandlaren}{29}
-\contentsline {section}{\numberline {6.3}Guld}{30}
-\contentsline {section}{\numberline {6.4}Ju mera \IeC {\"o}l vi dricker}{30}
-\contentsline {section}{\numberline {6.5}Var n\IeC {\"o}jd med \IeC {\"o}len}{31}
-\contentsline {section}{\numberline {6.6}Min pilsner}{31}
-\contentsline {chapter}{\numberline {7}sallskapsvisor}{32}
-\contentsline {section}{\numberline {7.1}T\IeC {\r a}rtan}{32}
+\contentsline {chapter}{\numberline {1}S\IeC {\r a}nger inom Academian}{6}
+\contentsline {section}{\numberline {1.1}Arbetslunchvisan}{6}
+\contentsline {section}{\numberline {1.2}F\IeC {\"o}rsta Snapsvisan}{6}
+\contentsline {section}{\numberline {1.3}Den i:te snapsvisan}{7}
+\contentsline {section}{\numberline {1.4}\IeC {\"A}n en g\IeC {\r a}ng d\IeC {\"a}ran...}{7}
+\contentsline {chapter}{\numberline {2}Fina Visor}{9}
+\contentsline {section}{\numberline {2.1}Du gamla, du fria}{9}
+\contentsline {section}{\numberline {2.2}Kungss\IeC {\r a}ngen}{9}
+\contentsline {section}{\numberline {2.3}O gamla klang - och jubeltid}{11}
+\contentsline {chapter}{\numberline {3}Vinvisor}{13}
+\contentsline {section}{\numberline {3.1}Bordeaux, Bordeaux}{13}
+\contentsline {section}{\numberline {3.2}Feta Fransyskor}{13}
+\contentsline {section}{\numberline {3.3}Inre dialog}{14}
+\contentsline {section}{\numberline {3.4}I Frankrike dricks det viner}{15}
+\contentsline {section}{\numberline {3.5}Sudda sudda}{15}
+\contentsline {section}{\numberline {3.6}Undulaten}{15}
+\contentsline {section}{\numberline {3.7}V\IeC {\r a}rvinets lov}{16}
+\contentsline {section}{\numberline {3.8}Franska vanor}{17}
+\contentsline {section}{\numberline {3.9}Imsig vimsig}{18}
+\contentsline {section}{\numberline {3.10}R\IeC {\"o}d vitamin}{18}
+\contentsline {chapter}{\numberline {4}Snapsvisor}{20}
+\contentsline {section}{\numberline {4.1}Livet \IeC {\"a}r h\IeC {\"a}rligt}{20}
+\contentsline {section}{\numberline {4.2}Festen kan b\IeC {\"o}rja}{20}
+\contentsline {section}{\numberline {4.3}Denna thaft}{21}
+\contentsline {section}{\numberline {4.4}Hell and gore}{21}
+\contentsline {section}{\numberline {4.5}Mera br\IeC {\"a}nnvin i glasen}{22}
+\contentsline {section}{\numberline {4.6}M\IeC {\r a}nvisa}{22}
+\contentsline {section}{\numberline {4.7}Risjerk}{22}
+\contentsline {section}{\numberline {4.8}Om cykla}{23}
+\contentsline {section}{\numberline {4.9}R\IeC {\"o}da havet}{23}
+\contentsline {section}{\numberline {4.10}T\IeC {\r a}rtsupen}{24}
+\contentsline {section}{\numberline {4.11}Slutet s\IeC {\"a}llskap}{24}
+\contentsline {section}{\numberline {4.12}F\IeC {\"o}r att m\IeC {\"a}nniskan}{24}
+\contentsline {section}{\numberline {4.13}Byssan lull}{24}
+\contentsline {section}{\numberline {4.14}En liten g\IeC {\r a}sap\IeC {\r a}g med Sk\IeC {\r a}ne}{25}
+\contentsline {section}{\numberline {4.15}J\IeC {\"a}sa, j\IeC {\"a}sa br\IeC {\"a}nnvin}{25}
+\contentsline {section}{\numberline {4.16}Be Be vitamin}{26}
+\contentsline {section}{\numberline {4.17}Br\IeC {\"a}nnvin \IeC {\"a}r s\IeC {\r a} j\IeC {\"a}kla gott}{26}
+\contentsline {section}{\numberline {4.18}Den siamesiska tvillingen}{26}
+\contentsline {chapter}{\numberline {5}Gl\IeC {\"o}ggvisor}{28}
+\contentsline {section}{\numberline {5.1}Gl\IeC {\"o}ggvisa}{28}
+\contentsline {section}{\numberline {5.2}Gl\IeC {\"o}ggvisan}{28}
+\contentsline {chapter}{\numberline {6}\IeC {\"O}lvisor}{30}
+\contentsline {section}{\numberline {6.1}En pilsnerdrickare}{30}
+\contentsline {section}{\numberline {6.2}H\IeC {\"a}sthandlaren}{30}
+\contentsline {section}{\numberline {6.3}Guld}{31}
+\contentsline {section}{\numberline {6.4}Ju mera \IeC {\"o}l vi dricker}{31}
+\contentsline {section}{\numberline {6.5}Var n\IeC {\"o}jd med \IeC {\"o}len}{32}
+\contentsline {section}{\numberline {6.6}Min pilsner}{32}
+\contentsline {chapter}{\numberline {7}S\IeC {\"a}llskapsvisor}{33}
+\contentsline {section}{\numberline {7.1}T\IeC {\r a}rtan}{33}
+\contentsline {section}{\numberline {7.2}T\IeC {\r a}get}{33}
+\contentsline {section}{\numberline {7.3}Brev fr\IeC {\r a}n kolonien}{34}
+\contentsline {section}{\numberline {7.4}Var bor du, lilla r\IeC {\r a}tta?}{35}
+\contentsline {section}{\numberline {7.5}Min h\IeC {\"a}st}{36}
+\contentsline {section}{\numberline {7.6}Min lilla h\IeC {\"a}st}{36}
+\contentsline {section}{\numberline {7.7}Professor Baltazar}{37}
+\contentsline {section}{\numberline {7.8}Telefonen}{37}
+\contentsline {section}{\numberline {7.9}En kulen natt}{38}
+\contentsline {section}{\numberline {7.10}Familjen krokodil}{38}
+\contentsline {section}{\numberline {7.11}I ett hus}{40}
+\contentsline {section}{\numberline {7.12}Under en filt i Madrid}{40}
+\contentsline {section}{\numberline {7.13}Apans s\IeC {\r a}ng}{42}
+\contentsline {section}{\numberline {7.14}Kalles kl\IeC {\"a}ttertr\IeC {\"a}d}{43}
+\contentsline {section}{\numberline {7.15}Jag vill ha blommig falukorv}{43}
+\contentsline {section}{\numberline {7.16}Vi cyklar runt i v\IeC {\"a}rlden}{44}
+\contentsline {section}{\numberline {7.17}Sj\IeC {\"o}r\IeC {\"o}var-Fabbe}{45}
+\contentsline {section}{\numberline {7.18}Fantomens brallor}{47}
+\contentsline {chapter}{\numberline {8}Punschvisor}{49}
+\contentsline {section}{\numberline {8.1}Punschen kommer}{49}
+\contentsline {section}{\numberline {8.2}Gul lyser solen}{49}
+\contentsline {section}{\numberline {8.3}Min punsch}{50}
+\contentsline {section}{\numberline {8.4}Punsch, punsch}{50}
+\contentsline {section}{\numberline {8.5}Punschen gul}{50}
+\contentsline {section}{\numberline {8.6}Studiemedelsrondo}{51}
+\contentsline {section}{\numberline {8.7}Punschen kommer hej, hej}{52}
+\contentsline {section}{\numberline {8.8}V\IeC {\"a}djan till punschen}{52}
+\contentsline {section}{\numberline {8.9}Sjung punschens lov}{52}
+\contentsline {section}{\numberline {8.10}\IeC {\"A}rtor utan punschen}{54}
+\contentsline {section}{\numberline {8.11}Sista punschvisan}{54}
