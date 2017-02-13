@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.12)  12 FEB 2017 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.12)  13 FEB 2017 02:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -588,7 +588,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
-) (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./glogvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
+) (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -710,14 +710,16 @@ File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 LaTeX Font Info:    Try loading font information for OT1+zplm on input line 3.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-))
+) [3
+
+
+])
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [3
-
-
-]
+LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
+(Font)              Font shape `T1/pplx/m/it' tried instead on input line 56.
+ [4]
 \openout2 = `sanger_inom_academian.aux'.
 
  (./sanger_inom_academian.tex
@@ -757,7 +759,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--28
 
  []
 
-[4
+[5
 
 
 ]
@@ -780,9 +782,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--56
 
  []
 
-LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 56.
-[5] [6]
+[6] [7]
 \openout2 = `fina_visor.aux'.
 
  (./fina_visor.tex
@@ -812,7 +812,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--41
 
  []
 
-[7
+[8
 
 
 
@@ -826,7 +826,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--57
 
  []
 
-[8])
+[9])
 Underfull \hbox (badness 10000) in paragraph at lines 58--57
 
  []
@@ -851,7 +851,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--57
 
  []
 
-[9] [10]
+[10] [11]
 \openout2 = `vinvisor.aux'.
 
  (./vinvisor.tex
@@ -871,7 +871,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--35
 
  []
 
-[11
+[12
 
 
 
@@ -885,7 +885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--62
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 64--73
 
  []
@@ -900,27 +900,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--97
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 99--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--113
-
- []
-
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 115--144
+Underfull \hbox (badness 10000) in paragraph at lines 99--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--144
+Underfull \hbox (badness 10000) in paragraph at lines 99--113
 
  []
 
 [15]
+Underfull \hbox (badness 10000) in paragraph at lines 115--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--144
+
+ []
+
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 146--156
 
  []
@@ -945,59 +945,234 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--58
 
  []
 
-[16] [17]
+[17] [18]
 \openout2 = `snapsvisor.aux'.
 
  (./snapsvisor.tex
-./snapsvisor.tex:1: Undefined control sequence.
-l.1 \chaper
-           {Snapsvisor}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+chapter 4.
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 3--59
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--59
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
 
  []
 
-[18
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--26
+
+ []
+
+[19
+
 
 
 ]
-\openout2 = `glogvisor.aux'.
+Underfull \hbox (badness 10000) in paragraph at lines 28--38
+
+ []
 
 
-No file glogvisor.tex.
+Underfull \hbox (badness 10000) in paragraph at lines 40--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--63
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 65--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--79
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 81--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--108
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 110--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--132
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 134--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--154
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 156--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--172
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 174--59
+
+ []
+
+[25] [26]
+\openout2 = `gloggvisor.aux'.
+
+ (./gloggvisor.tex
+chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--16
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 18--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--60
+
+ []
+
+[27
+
+
+
+] [28]
 \openout2 = `olvisor.aux'.
 
-(./olvisor.tex)
+ (./olvisor.tex
+chapter 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--27
+
+ []
+
+[29
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--58
+
+ []
+
+[30])
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+[31]
 \openout2 = `sallskapsvisor.aux'.
 
- (./sallskapsvisor.tex)
+ (./sallskapsvisor.tex
+chapter 7.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--62
+
+ []
+
+[32
+
+
+
+]
 \openout2 = `punschvisor.aux'.
 
- (./punschvisor.tex) (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./glogvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux)) ) 
+ (./punschvisor.tex) (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux)) ) 
 Here is how much of TeX's memory you used:
- 6394 strings out of 493014
- 100157 string characters out of 6133351
- 266785 words of memory out of 5000000
- 9760 multiletter control sequences out of 15000+600000
+ 6405 strings out of 493014
+ 100339 string characters out of 6133351
+ 268781 words of memory out of 5000000
+ 9769 multiletter control sequences out of 15000+600000
  23996 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,7n,66p,8483b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (18 pages, 198795 bytes).
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (32 pages, 213983 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 136 PDF objects out of 1000 (max. 8388607)
+ 93 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
