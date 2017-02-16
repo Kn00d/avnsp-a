@@ -1,28 +1,41 @@
-\documentclass[a5paper,pagesize,10pt,bibtotoc,pointlessnumbers,
-normalheadings,DIV=9,twoside=false]{scrbook}
+\documentclass[a5paper,pagesize,10pt,bibtotoc,pointlessnumbers, normalheadings,DIV=9,twoside=false, headings=Small]{scrbook}
 
 % twoside, openright
 \KOMAoptions{DIV=last}
 
 \usepackage{trajan}
 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\leftmark}
+\cfoot{\pagemark}
+
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
+
+\renewcommand{\headrulewidth}{2pt}
+
 \usepackage[swedish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{titlesec}
+\titlespacing{\section}{0pt}{{0pt}{0pt}
 
-%\usepackage[babel,german=guillemets]{csquotes}
+\titleformat{\chapter}[display]
+{\bfseries\filcenter}
+{\LARGE\thechapter}
+{1ex}
+{\titlerule[2pt]
+\vspace{2ex}%
+\LARGE}
+[\vspace{1ex}%
+{\titlerule[2pt]}]
 
-\usepackage[sc]{mathpazo}
+\titleformat{\section}
+{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
 \linespread{1.05}
 
-\usepackage{verbatim} % for comments
-\usepackage{listings} % for comments
-
-%\setlength{\parindent}{10pt}
-%\setlength{\parskip}{1.4ex plus 0.35ex minus 0.3ex}
-%\setlength{\parskip}{1.4ex plus 0.35ex minus 0.3ex}
-
-\usepackage{blindtext}
 \usepackage{eurosym} %Franska jävla symboler
 \usepackage{graphicx} %För att kunna lägga in bilder
 \graphicspath{ {img/} } %Alla bilder ska ligga i img-mappen
@@ -39,7 +52,7 @@ normalheadings,DIV=9,twoside=false]{scrbook}
   \includegraphics[width=8cm]{avnsp-logo.png}
 		\centering{
 			{\fontsize{40}{48}\selectfont
-			Academians Sångbok}
+			\textbf{Academians Sångbok}
 		}\\
 
     \centering{

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  13 FEB 2017 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  16 FEB 2017 02:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -183,9 +183,28 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 10.0pt
 (typearea)              \footskip       = 42.0pt
 (typearea)              \baselineskip   = 12.0pt
-(typearea)              on input line 5.
+(typearea)              on input line 4.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/trajan/trajan.sty
 Package: trajan 2005/06/29 v1.1 package for Trajan fonts
+)
+
+Class scrbook Warning: Usage of package `fancyhdr' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use 
+(scrbook)              package `scrlayer-scrpage'.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `fancyhdr' on input line 9.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip56
+\f@ncyO@elh=\skip57
+\f@ncyO@erh=\skip58
+\f@ncyO@olh=\skip59
+\f@ncyO@orh=\skip60
+\f@ncyO@elf=\skip61
+\f@ncyO@erf=\skip62
+\f@ncyO@olf=\skip63
+\f@ncyO@orf=\skip64
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
  (/usr/local/texlive/2016/texmf-dist/tex/generic/babel-swedish/swedish.ldf
@@ -510,63 +529,69 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)) (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
-\symupright=\mathgroup4
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
-\verbatim@in@stream=\read1
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count90
-\lst@gtempboxa=\box28
-\lst@token=\toks19
-\lst@length=\count91
-\lst@currlwidth=\dimen104
-\lst@column=\count92
-\lst@pos=\count93
-\lst@lostspace=\dimen105
-\lst@width=\dimen106
-\lst@newlines=\count94
-\lst@lineno=\count95
-\lst@maxwidth=\dimen107
- (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count96
-\lst@skipnumbers=\count97
-\lst@framebox=\box29
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
- (/usr/local/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
- (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+
+Class scrbook Warning: Usage of package `titlesec' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use the package only
+(scrbook)              if you really need it, because it breaks several
+(scrbook)              KOMA-Script features, i.e., option `headings' and
+(scrbook)              the extended optional argument of the section
+(scrbook)              commands.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `titlesec' on input line 22.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen104
+\ttl@minus=\dimen105
+\ttl@toksa=\toks17
+\titlewidth=\dimen106
+\titlewidthlast=\dimen107
+\titlewidthfirst=\dimen108
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
 )
-\c@blindtext=\count98
-\c@Blindtext=\count99
-\c@blind@countparstart=\count100
-\blind@countxx=\count101
-\blindtext@numBlindtext=\count102
-\blind@countyy=\count103
-\c@blindlist=\count104
-\c@blindlistlevel=\count105
-\c@blindlist@level=\count106
-\blind@listitem=\count107
-\c@blind@listcount=\count108
-\c@blind@levelcount=\count109
-\blind@mathformula=\count110
-\blind@Mathformula=\count111
-\c@blind@randomcount=\count112
-\c@blind@randommax=\count113
-\c@blind@pangramcount=\count114
-\c@blind@pangrammax=\count115
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/eurosym/eurosym.sty
+
+Package scrbook Warning: Activating an ugly workaround for a missing
+(scrbook)                feature of package `titlesec` on input line 22.
+
+Runaway argument?
+{{0pt}{0pt} 
+./main.tex:23: Paragraph ended before \ttl@spacing@i was complete.
+<to be read again> 
+                   \par 
+l.23 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box30
+\@eurobox=\box29
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
@@ -584,45 +609,43 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count116
+\Gread@gobject=\count90
 ))
-\Gin@req@height=\dimen108
-\Gin@req@width=\dimen109
-) (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
+\Gin@req@height=\dimen109
+\Gin@req@width=\dimen110
+)
+
+LaTeX Warning: Unused global option(s):
+    [headings=Small].
+
+(./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Try loading font information for T1+pplx on input line 35.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pplx.fd
-File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
-)
-\big@size=\dimen110
-\c@lstlisting=\count117
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
  (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count91
 \scratchdimen=\dimen111
-\scratchbox=\box31
-\nofMPsegments=\count119
-\nofMParguments=\count120
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count121
+\scratchbox=\box30
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
 \MPscratchDim=\dimen112
-\MPnumerator=\count122
-\makeMPintoPDFobject=\count123
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO)
  (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
@@ -660,11 +683,19 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) <avnsp-logo.png, id=1, 144.54pt x 70.8246pt>
 File: avnsp-logo.png Graphic file (type png)
  <use avnsp-logo.png>
-Package pdftex.def Info: avnsp-logo.png used on input line 39.
+Package pdftex.def Info: avnsp-logo.png used on input line 52.
 (pdftex.def)             Requested size: 227.62204pt x 111.54065pt.
 
-./main.tex:51: Undefined control sequence.
-l.51 		\centering \medium
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 54.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 55.
+
+./main.tex:64: Undefined control sequence.
+l.64 		\centering \medium
                          {Februari 2017}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -676,14 +707,21 @@ and I'll forget about whatever was undefined.
 
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avnsp-logo.png>]
+./main.tex:65: Missing } inserted.
+<inserted text> 
+                }
+l.65 \end{titlepage}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
 \openout2 = `abstract.aux'.
 
- (./abstract.tex
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 2.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-))
-Underfull \hbox (badness 10000) in paragraph at lines 3--54
+(./abstract.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--67
 
  []
 
@@ -691,61 +729,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--54
 
 
 ] (./main.toc
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 3.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pplx.fd
-File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 2.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 3.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 3.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 3.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 3.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [3
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+ [3
 
 
-]
-LaTeX Font Info:    Font shape `T1/pplx/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplx/m/it' tried instead on input line 56.
- [4])
+] [4] [5])
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [5]
+ [6]
 \openout2 = `sanger_inom_academian.aux'.
 
  (./sanger_inom_academian.tex
 chapter 1.
 
-Class scrbook Warning: \float@addtolists detected!
-(scrbook)              Implementation of \float@addtolist became
-(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
-(scrbook)              has been replaced by several more flexible
-(scrbook)              features of package `tocbasic`.
-(scrbook)              Since Version 3.12 support for deprecated
-(scrbook)              \float@addtolist interface has been
-(scrbook)              restricted to only some of the KOMA-Script
-(scrbook)              features and been removed from others.
-(scrbook)              Loading of package `scrhack' may help to
-(scrbook)              avoid this warning, if you are using a
-(scrbook)              a package that still implements the
-(scrbook)              deprecated \float@addtolist interface .
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--14
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 3--14
 
  []
@@ -755,35 +759,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--28
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--28
-
- []
-
-[6
+[7
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 29--45
+Underfull \hbox (badness 10000) in paragraph at lines 30--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--45
+Underfull \hbox (badness 10000) in paragraph at lines 30--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--45
+Underfull \hbox (badness 10000) in paragraph at lines 30--46
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 46--56
-
- []
-
-[7] [8]
+) [8] [9]
 \openout2 = `fina_visor.aux'.
 
  (./fina_visor.tex
@@ -794,11 +788,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--14
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 16--41
 
  []
@@ -813,7 +802,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--41
 
  []
 
-[9
+[10
 
 
 
@@ -822,37 +811,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--57
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--57
-
- []
-
-[10])
-Underfull \hbox (badness 10000) in paragraph at lines 58--57
+[11])
+Underfull \hbox (badness 10000) in paragraph at lines 59--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--70
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--57
-
- []
-
-[11] [12]
+[12] [13]
 \openout2 = `vinvisor.aux'.
 
  (./vinvisor.tex
@@ -862,91 +841,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--18
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--35
-
- []
-
-[13
+[14
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 37--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--62
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 64--73
-
- []
-
-
+] [15]
 Underfull \hbox (badness 10000) in paragraph at lines 75--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--97
-
- []
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 99--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--113
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 115--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--144
+Underfull \hbox (badness 10000) in paragraph at lines 99--113
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 146--156
+Underfull \hbox (badness 10000) in paragraph at lines 115--144
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 158--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--58
+[18])
+Underfull \hbox (badness 10000) in paragraph at lines 158--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--58
+Underfull \hbox (badness 10000) in paragraph at lines 158--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--58
+Underfull \hbox (badness 10000) in paragraph at lines 158--71
 
  []
 
-[18] [19]
+[19] [20]
 \openout2 = `snapsvisor.aux'.
 
  (./snapsvisor.tex
@@ -956,111 +885,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--14
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--26
-
- []
-
-[20
+[21
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 28--38
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--50
-
- []
-
-
+] [22]
 Underfull \hbox (badness 10000) in paragraph at lines 52--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--63
-
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 65--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--79
-
- []
-
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 81--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 93--101
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 103--108
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 110--114
+Underfull \hbox (badness 10000) in paragraph at lines 93--101
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--132
-
- []
-
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 134--144
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
-
- []
-
-[25]
-Underfull \hbox (badness 10000) in paragraph at lines 156--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 165--172
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 174--59
-
- []
-
-[26] [27]
+[24] [25] [26]) [27]
 \openout2 = `gloggvisor.aux'.
 
  (./gloggvisor.tex
@@ -1070,18 +909,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--16
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--16
-
- []
-
 )
-Underfull \hbox (badness 10000) in paragraph at lines 18--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--60
+Underfull \hbox (badness 10000) in paragraph at lines 18--73
 
  []
 
@@ -1100,16 +929,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--27
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 16--27
 
  []
@@ -1119,80 +938,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--27
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 29--35
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 37--48
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--58
-
- []
-
-[31])
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-[32]
+[31]) [32]
 \openout2 = `sallskapsvisor.aux'.
 
  (./sallskapsvisor.tex
 chapter 7.
 
-./sallskapsvisor.tex:4: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 S
-     ocker, grädde, nötter och mandelflarn,\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
-
- []
+[33
 
 
-./sallskapsvisor.tex:14: LaTeX Error: There's no line here to end.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 P
-      lingelingeling, nu ska tåget gå\\
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--22
-
- []
-
-./sallskapsvisor.tex:24: Misplaced alignment tab character &.
+]
+./sallskapsvisor.tex:22: Misplaced alignment tab character &.
 <argument> Text &
                   musik: Cornelis Wreeswijk
-l.24 \textit{Text & musik: Cornelis Wreeswijk}
+l.22 \textit{Text & musik: Cornelis Wreeswijk}
                                               
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1202,54 +970,45 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
+Underfull \hbox (badness 10000) in paragraph at lines 22--63
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--65
-
- []
-
-[33
-
-
-
-] [34]
-./sallskapsvisor.tex:67: Misplaced alignment tab character &.
+[34]
+./sallskapsvisor.tex:65: Misplaced alignment tab character &.
 <argument> Text &
                   musik: B G Hallquist
-l.67 \textit{Text & musik: B G Hallquist}
+l.65 \textit{Text & musik: B G Hallquist}
                                          
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1259,38 +1018,28 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
+Underfull \hbox (badness 10000) in paragraph at lines 65--84
 
  []
 
 [35]
 
-./sallskapsvisor.tex:89: LaTeX Error: There's no line here to end.
+./sallskapsvisor.tex:87: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 M
+l.87 M
       in häst den har gula öron\\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--94
-
- []
-
-./sallskapsvisor.tex:96: Misplaced alignment tab character &.
+./sallskapsvisor.tex:94: Misplaced alignment tab character &.
 <argument> Text &
                   musik: Gullan Bornemark
-l.96 \textit{Text & musik: Gullan Bornemark}
+l.94 \textit{Text & musik: Gullan Bornemark}
                                             
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1300,333 +1049,298 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--107
+Underfull \hbox (badness 10000) in paragraph at lines 94--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--107
-
- []
-
-
-./sallskapsvisor.tex:110: LaTeX Error: There's no line here to end.
+./sallskapsvisor.tex:108: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.110 $
+l.108 $
        ||:$ Balt, Balt, Baltazar.\\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--113
-
- []
-
 [36]
-Underfull \hbox (badness 10000) in paragraph at lines 115--138
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--138
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--138
+Underfull \hbox (badness 10000) in paragraph at lines 113--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--138
+Underfull \hbox (badness 10000) in paragraph at lines 138--157
 
  []
 
 [37]
-Underfull \hbox (badness 10000) in paragraph at lines 140--159
+Underfull \hbox (badness 10000) in paragraph at lines 159--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--159
+Underfull \hbox (badness 10000) in paragraph at lines 159--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--198
+Underfull \hbox (badness 10000) in paragraph at lines 159--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--198
+Underfull \hbox (badness 10000) in paragraph at lines 159--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--198
+Underfull \hbox (badness 10000) in paragraph at lines 159--196
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 198--206
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--198
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--198
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--198
-
- []
-
-[38] [39]
-Underfull \hbox (badness 10000) in paragraph at lines 200--208
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 208--259
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 261--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 261--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 261--292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 261--292
+
+ []
+
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 294--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
+Underfull \hbox (badness 10000) in paragraph at lines 294--306
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--261
-
- []
-
-[40] [41]
-Underfull \hbox (badness 10000) in paragraph at lines 263--294
+Underfull \hbox (badness 10000) in paragraph at lines 308--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--294
+Underfull \hbox (badness 10000) in paragraph at lines 308--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--294
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 263--294
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 263--294
-
- []
-
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 296--308
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--308
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 296--308
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--333
+Underfull \hbox (badness 10000) in paragraph at lines 308--331
 
  []
 
 [43]
-Underfull \hbox (badness 10000) in paragraph at lines 335--360
+Underfull \hbox (badness 10000) in paragraph at lines 333--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--360
+Underfull \hbox (badness 10000) in paragraph at lines 333--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--360
+Underfull \hbox (badness 10000) in paragraph at lines 333--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--360
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--360
+Underfull \hbox (badness 10000) in paragraph at lines 333--358
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 362--404
+Underfull \hbox (badness 10000) in paragraph at lines 360--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--404
+Underfull \hbox (badness 10000) in paragraph at lines 360--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--404
+Underfull \hbox (badness 10000) in paragraph at lines 360--402
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--404
+Underfull \hbox (badness 10000) in paragraph at lines 360--402
+
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--404
-
- []
-
-[45])
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 404--436
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 438--457
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 438--457
+
+ []
+
+[47])
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--62
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
 
  []
 
-[46] [47] [48]
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--75
+
+ []
+
+[48] [49] [50]
 \openout2 = `punschvisor.aux'.
 
  (./punschvisor.tex
 chapter 8.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--27
-
- []
-
-[49
+[51
 
 
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 38--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--59
-
- []
-
-[50]
+] [52]
 Underfull \hbox (badness 10000) in paragraph at lines 61--80
 
  []
@@ -1636,22 +1350,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--80
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--89
-
- []
-
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 91--101
-
- []
-
-
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 103--136
 
  []
@@ -1681,35 +1380,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--136
 
  []
 
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 138--148
+[54] [55])
+Underfull \hbox (badness 10000) in paragraph at lines 150--76
 
  []
 
-[53])
-Underfull \hbox (badness 10000) in paragraph at lines 150--63
+[56] (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
 
- []
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.17pt have occurred.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--63
-
- []
-
-[54] (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux)) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 6406 strings out of 493014
- 100355 string characters out of 6133351
- 268783 words of memory out of 5000000
- 9770 multiletter control sequences out of 15000+600000
- 23996 words of font info for 48 fonts, out of 8000000 for 9000
+ 5020 strings out of 493014
+ 78961 string characters out of 6133351
+ 238739 words of memory out of 5000000
+ 8430 multiletter control sequences out of 15000+600000
+ 12014 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,7n,66p,8483b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (54 pages, 240392 bytes).
+ 46i,10n,66p,8483b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on main.pdf (56 pages, 293880 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+ 226 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

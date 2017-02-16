@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  13 FEB 2017 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  14 FEB 2017 10:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 ./punschvisor.tex:1: Undefined control sequence.
-l.1 \chapter
-            {Punschvisor}
+l.1 \part
+         {Punschvisor}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -23,8 +23,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \chapter{P
-              unschvisor}
+l.1 \part{P
+           unschvisor}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -40,7 +40,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 ./punschvisor.tex:2: Undefined control sequence.
-l.2 \section
+l.2 \chapter
             {Punschen kommer}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -246,7 +246,7 @@ Overfull \hbox (20.95543pt too wide) in paragraph at lines 1--15
  []
 
 ./punschvisor.tex:16: Undefined control sequence.
-l.16 \section
+l.16 \chapter
              {Gul lyser solen}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -261,7 +261,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 \section{G
+l.16 \chapter{G
                ul lyser solen}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -474,7 +474,7 @@ Overfull \hbox (17.37766pt too wide) in paragraph at lines 16--27
  []
 
 ./punschvisor.tex:28: Undefined control sequence.
-l.28 \section
+l.28 \chapter
              {Min punsch}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -489,7 +489,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 \section{M
+l.28 \chapter{M
                in punsch}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -667,7 +667,7 @@ Overfull \hbox (5.55557pt too wide) in paragraph at lines 28--36
  []
 
 ./punschvisor.tex:37: Undefined control sequence.
-l.37 \section
+l.37 \chapter
              {Punsch, punsch}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -682,7 +682,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 \section{P
+l.37 \chapter{P
                unsch, punsch}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1029,7 +1029,7 @@ Overfull \hbox (5.55557pt too wide) in paragraph at lines 37--51
  []
 
 ./punschvisor.tex:52: Undefined control sequence.
-l.52 \section
+l.52 \chapter
              {Punschen gul}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1044,7 +1044,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.52 \section{P
+l.52 \chapter{P
                unschen gul}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1193,7 +1193,7 @@ Overfull \hbox (20.44429pt too wide) in paragraph at lines 52--59
  []
 
 ./punschvisor.tex:60: Undefined control sequence.
-l.60 \section
+l.60 \chapter
              {Studiemedelsrondo}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1208,7 +1208,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \section{S
+l.60 \chapter{S
                tudiemedelsrondo}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1502,7 +1502,7 @@ Overfull \hbox (25.04431pt too wide) in paragraph at lines 60--80
  []
 
 ./punschvisor.tex:81: Undefined control sequence.
-l.81 \section
+l.81 \chapter
              {Punschen kommer hej, hej}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1517,7 +1517,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 \section{P
+l.81 \chapter{P
                unschen kommer hej, hej}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1690,7 +1690,7 @@ Overfull \hbox (5.55557pt too wide) in paragraph at lines 81--89
  []
 
 ./punschvisor.tex:90: Undefined control sequence.
-l.90 \section
+l.90 \chapter
              {VÃ¤djan till punschen}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1705,7 +1705,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.90 \section{V
+l.90 \chapter{V
                Ã¤djan till punschen}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1927,7 +1927,7 @@ Overfull \hbox (15.58879pt too wide) in paragraph at lines 90--101
  []
 
 ./punschvisor.tex:102: Undefined control sequence.
-l.102 \section
+l.102 \chapter
               {Sjung punschens lov}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1942,7 +1942,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.102 \section{S
+l.102 \chapter{S
                 jung punschens lov}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2536,7 +2536,7 @@ Overfull \hbox (8.17773pt too wide) in paragraph at lines 102--136
  []
 
 ./punschvisor.tex:137: Undefined control sequence.
-l.137 \section
+l.137 \chapter
               {Ã„rtor utan punschen}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2551,7 +2551,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.137 \section{Ã
+l.137 \chapter{Ã
                 „rtor utan punschen}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2761,7 +2761,7 @@ Overfull \hbox (23.63872pt too wide) in paragraph at lines 137--148
  []
 
 ./punschvisor.tex:149: Undefined control sequence.
-l.149 \section
+l.149 \chapter
               {Sista punschvisan}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2776,7 +2776,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.149 \section{S
+l.149 \chapter{S
                 ista punschvisan}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
