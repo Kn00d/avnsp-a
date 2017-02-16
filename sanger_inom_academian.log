@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  14 FEB 2017 10:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  16 FEB 2017 08:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -8,8 +8,8 @@ entering extended mode
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 ./sanger_inom_academian.tex:1: Undefined control sequence.
-l.1 \part
-         {Sånger inom Academian}
+l.1 \chapter
+            {Sånger inom Academian}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -23,8 +23,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \part{S
-           ånger inom Academian}
+l.1 \chapter{S
+              ånger inom Academian}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -49,7 +49,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
 ./sanger_inom_academian.tex:2: Undefined control sequence.
-l.2 \chapter
+l.2 \section
             {Arbetslunchvisan}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -400,8 +400,23 @@ Overfull \hbox (26.57764pt too wide) in paragraph at lines 1--14
 \OT1/cmr/m/it/10 hanna
  []
 
-./sanger_inom_academian.tex:15: Undefined control sequence.
-l.15 \chapter
+
+./sanger_inom_academian.tex:14: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+./sanger_inom_academian.tex:16: Undefined control sequence.
+l.16 \section
              {Första Snapsvisan}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -410,13 +425,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./sanger_inom_academian.tex:15: LaTeX Error: Missing \begin{document}.
+./sanger_inom_academian.tex:16: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 \chapter{F
+l.16 \section{F
                örsta Snapsvisan}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -709,27 +724,27 @@ Missing character: There is no f in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--28
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--29
 []
  []
 
 
-Overfull \hbox (31.96646pt too wide) in paragraph at lines 15--28
+Overfull \hbox (31.96646pt too wide) in paragraph at lines 16--29
 \OT1/cmr/m/it/10 Melodi:
  []
 
 
-Overfull \hbox (17.88876pt too wide) in paragraph at lines 15--28
+Overfull \hbox (17.88876pt too wide) in paragraph at lines 16--29
 \OT1/cmr/m/it/10 Stu-
  []
 
 
-Overfull \hbox (43.1886pt too wide) in paragraph at lines 15--28
+Overfull \hbox (43.1886pt too wide) in paragraph at lines 16--29
 \OT1/cmr/m/it/10 dentsngen
  []
 
-./sanger_inom_academian.tex:29: Undefined control sequence.
-l.29 \chapter
+./sanger_inom_academian.tex:30: Undefined control sequence.
+l.30 \section
              {Den i:te snapsvisan}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -738,13 +753,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./sanger_inom_academian.tex:29: LaTeX Error: Missing \begin{document}.
+./sanger_inom_academian.tex:30: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 \chapter{D
+l.30 \section{D
                en i:te snapsvisan}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1027,52 +1042,52 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no ! in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 29--46
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--47
 []
  []
 
 
-Overfull \hbox (22.01651pt too wide) in paragraph at lines 29--46
+Overfull \hbox (22.01651pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 Text:
  []
 
 
-Overfull \hbox (21.23318pt too wide) in paragraph at lines 29--46
+Overfull \hbox (21.23318pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 Hen-
  []
 
 
-Overfull \hbox (11.88324pt too wide) in paragraph at lines 29--46
+Overfull \hbox (11.88324pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 rik
  []
 
 
-Overfull \hbox (19.94427pt too wide) in paragraph at lines 29--46
+Overfull \hbox (19.94427pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 Berg
  []
 
 
-Overfull \hbox (31.96646pt too wide) in paragraph at lines 29--46
+Overfull \hbox (31.96646pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 Melodi:
  []
 
 
-Overfull \hbox (22.36096pt too wide) in paragraph at lines 29--46
+Overfull \hbox (22.36096pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 Stars
  []
 
 
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 29--46
+Overfull \hbox (15.84436pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 and
  []
 
 
-Overfull \hbox (27.98312pt too wide) in paragraph at lines 29--46
+Overfull \hbox (27.98312pt too wide) in paragraph at lines 30--47
 \OT1/cmr/m/it/10 stripes
  []
 
-./sanger_inom_academian.tex:47: Undefined control sequence.
-l.47 \chapter
+./sanger_inom_academian.tex:48: Undefined control sequence.
+l.48 \section
              {Än en gång däran...}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1081,13 +1096,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./sanger_inom_academian.tex:47: LaTeX Error: Missing \begin{document}.
+./sanger_inom_academian.tex:48: LaTeX Error: Missing \begin{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.47 \chapter{�
+l.48 \section{�
                �n en gång däran...}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1347,6 +1362,7 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no ! in font nullfont!
+Missing character: There is no ^^B in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -1619,11 +1635,11 @@ Missing character: There is no ! in font nullfont!
 
  
 Here is how much of TeX's memory you used:
- 8 strings out of 493014
- 208 string characters out of 6133351
- 55601 words of memory out of 5000000
+ 10 strings out of 493014
+ 243 string characters out of 6133351
+ 54601 words of memory out of 5000000
  3650 multiletter control sequences out of 15000+600000
  3986 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 13i,1n,10p,109b,67s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,4n,14p,109b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

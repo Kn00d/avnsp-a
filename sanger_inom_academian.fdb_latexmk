@@ -1,12 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1487063029 "sanger_inom_academian.tex" "sanger_inom_academian.pdf" "sanger_inom_academian" 1487063030
+["pdflatex"] 1487229661 "sanger_inom_academian.tex" "sanger_inom_academian.pdf" "sanger_inom_academian" 1487229662
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1486994424 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1486994522 3873397 aa9c19f94ca0fa5c38ff676415358739 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "sanger_inom_academian.aux" 1487062825 1344 45831f72e30f41d0b511c983823b8b87 ""
-  "sanger_inom_academian.tex" 1487063023 2121 fe1c62219b5f245b95edfd013b0347a6 ""
+  "sanger_inom_academian.aux" 1487229588 994 6f762d01072155e920ff5f540c94ba06 ""
+  "sanger_inom_academian.tex" 1487229660 2130 9441ffb3db08590a10fddc65287d02de ""
   (generated)
-  "sanger_inom_academian.pdf"
   "sanger_inom_academian.log"
+  "sanger_inom_academian.pdf"

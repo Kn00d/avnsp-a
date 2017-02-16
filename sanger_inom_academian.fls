@@ -6,3 +6,5 @@ INPUT sanger_inom_academian.tex
 OUTPUT sanger_inom_academian.log
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+OUTPUT sanger_inom_academian.pdf
+INPUT /usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map
