@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  16 FEB 2017 09:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.13)  16 FEB 2017 09:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -186,6 +186,106 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              on input line 4.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/trajan/trajan.sty
 Package: trajan 2005/06/29 v1.1 package for Trajan fonts
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count92
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5044.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count93
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring OFF on input line 6318.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip56
 )
 
 Class scrbook Warning: Usage of package `fancyhdr' together
@@ -193,26 +293,26 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 (scrbook)              I'd suggest to use 
 (scrbook)              package `scrlayer-scrpage'.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `fancyhdr' on input line 9.
+(scrbook)              package `fancyhdr' on input line 11.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip56
-\f@ncyO@elh=\skip57
-\f@ncyO@erh=\skip58
-\f@ncyO@olh=\skip59
-\f@ncyO@orh=\skip60
-\f@ncyO@elf=\skip61
-\f@ncyO@erf=\skip62
-\f@ncyO@olf=\skip63
-\f@ncyO@orf=\skip64
+\fancy@headwidth=\skip57
+\f@ncyO@elh=\skip58
+\f@ncyO@erh=\skip59
+\f@ncyO@olh=\skip60
+\f@ncyO@orh=\skip61
+\f@ncyO@elf=\skip62
+\f@ncyO@erf=\skip63
+\f@ncyO@olf=\skip64
+\f@ncyO@orf=\skip65
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
  (/usr/local/texlive/2016/texmf-dist/tex/generic/babel-swedish/swedish.ldf
 Language: swedish 2005/03/31 v2.3d Swedish support from the babel system
  (/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count89
-\U@D=\dimen103
+\babel@savecnt=\count99
+\U@D=\dimen107
 )
 Package babel Info: Making " an active character on input line 90.
 )) (/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
@@ -514,6 +614,8 @@ Now handling font encoding OMX ...
 ... no UTF-8 mapping file for font encoding OMX
 Now handling font encoding U ...
 ... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -539,19 +641,19 @@ Class scrbook Warning: Usage of package `titlesec' together
 (scrbook)              the extended optional argument of the section
 (scrbook)              commands.
 (scrbook)              Nevertheless, using requested
-(scrbook)              package `titlesec' on input line 22.
+(scrbook)              package `titlesec' on input line 24.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box28
-\beforetitleunit=\skip65
-\aftertitleunit=\skip66
-\ttl@plus=\dimen104
-\ttl@minus=\dimen105
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen108
+\ttl@minus=\dimen109
 \ttl@toksa=\toks17
-\titlewidth=\dimen106
-\titlewidthlast=\dimen107
-\titlewidthfirst=\dimen108
+\titlewidth=\dimen110
+\titlewidthlast=\dimen111
+\titlewidthfirst=\dimen112
 
 
 Package titlesec Warning: Non standard sectioning command detected
@@ -576,14 +678,14 @@ Package titlesec Warning: Non standard sectioning command detected
 )
 
 Package scrbook Warning: Activating an ugly workaround for a missing
-(scrbook)                feature of package `titlesec` on input line 22.
+(scrbook)                feature of package `titlesec` on input line 24.
 
 Runaway argument?
 {{0pt}{0pt} 
-./main.tex:23: Paragraph ended before \ttl@spacing@i was complete.
+./main.tex:25: Paragraph ended before \ttl@spacing@i was complete.
 <to be read again> 
                    \par 
-l.23 
+l.25 
      
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -604,15 +706,10 @@ File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 96.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
- (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count90
+\Gread@gobject=\count100
 ))
-\Gin@req@height=\dimen109
-\Gin@req@width=\dimen110
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
 )
 
 LaTeX Warning: Unused global option(s):
@@ -621,81 +718,75 @@ LaTeX Warning: Unused global option(s):
 (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 50.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count101
+)
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
  (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen111
-\scratchbox=\box30
-\nofMPsegments=\count92
-\nofMParguments=\count93
+\scratchcounter=\count102
+\scratchdimen=\dimen115
+\scratchbox=\box31
+\nofMPsegments=\count103
+\nofMParguments=\count104
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen112
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen116
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
 \everyMPtoPDFconversion=\toks19
-) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-)) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
+)
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) <avnsp-logo.png, id=1, 144.54pt x 70.8246pt>
+)) <avnsp-logo.png, id=329, 144.54pt x 70.8246pt>
 File: avnsp-logo.png Graphic file (type png)
  <use avnsp-logo.png>
-Package pdftex.def Info: avnsp-logo.png used on input line 52.
+Package pdftex.def Info: avnsp-logo.png used on input line 54.
 (pdftex.def)             Requested size: 227.62204pt x 111.54065pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <40> not available
-(Font)              size <35.83> substituted on input line 54.
+(Font)              size <35.83> substituted on input line 56.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <40> not available
-(Font)              size <35.83> substituted on input line 55.
+(Font)              size <35.83> substituted on input line 57.
 
-./main.tex:64: Undefined control sequence.
-l.64 		\centering \medium
+./main.tex:66: Undefined control sequence.
+l.66 		\centering \medium
                          {Februari 2017}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -707,10 +798,10 @@ and I'll forget about whatever was undefined.
 
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./avnsp-logo.png>]
-./main.tex:65: Missing } inserted.
+./main.tex:67: Missing } inserted.
 <inserted text> 
                 }
-l.65 \end{titlepage}
+l.67 \end{titlepage}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -721,7 +812,7 @@ my insertion and my current dilemma will both disappear.
 \openout2 = `abstract.aux'.
 
 (./abstract.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--67
+Underfull \hbox (badness 10000) in paragraph at lines 3--69
 
  []
 
@@ -741,8 +832,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] [4] [5])
-\tf@toc=\write3
-\openout3 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
  [6]
 \openout2 = `sanger_inom_academian.aux'.
@@ -812,22 +903,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--58
  []
 
 [12])
-Underfull \hbox (badness 10000) in paragraph at lines 60--70
+Underfull \hbox (badness 10000) in paragraph at lines 60--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--70
+Underfull \hbox (badness 10000) in paragraph at lines 60--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--70
+Underfull \hbox (badness 10000) in paragraph at lines 60--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--70
+Underfull \hbox (badness 10000) in paragraph at lines 60--72
 
  []
 
@@ -861,17 +952,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--158
  []
 
 [19])
-Underfull \hbox (badness 10000) in paragraph at lines 160--71
+Underfull \hbox (badness 10000) in paragraph at lines 160--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--71
+Underfull \hbox (badness 10000) in paragraph at lines 160--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--71
+Underfull \hbox (badness 10000) in paragraph at lines 160--73
 
  []
 
@@ -910,7 +1001,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--16
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 18--73
+Underfull \hbox (badness 10000) in paragraph at lines 18--75
 
  []
 
@@ -1260,32 +1351,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 445--469
  []
 
 [51] [52])
-Underfull \hbox (badness 10000) in paragraph at lines 470--75
+Underfull \hbox (badness 10000) in paragraph at lines 470--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--75
+Underfull \hbox (badness 10000) in paragraph at lines 470--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--75
+Underfull \hbox (badness 10000) in paragraph at lines 470--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--75
+Underfull \hbox (badness 10000) in paragraph at lines 470--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--75
+Underfull \hbox (badness 10000) in paragraph at lines 470--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--75
+Underfull \hbox (badness 10000) in paragraph at lines 470--77
 
  []
 
@@ -1339,29 +1430,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--140
  []
 
 [59])
-Underfull \hbox (badness 10000) in paragraph at lines 154--76
+Underfull \hbox (badness 10000) in paragraph at lines 154--78
 
  []
 
-[60] [61] (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
+[60] [61]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 79.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
+ (./main.aux (./abstract.aux) (./sanger_inom_academian.aux) (./fina_visor.aux) (./vinvisor.aux) (./snapsvisor.aux) (./gloggvisor.aux) (./olvisor.aux) (./sallskapsvisor.aux) (./punschvisor.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 489F314A1544EFABCF24B72619FDFD61;5091.
+
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.17pt have occurred.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 5020 strings out of 493014
- 78961 string characters out of 6133351
- 238739 words of memory out of 5000000
- 8430 multiletter control sequences out of 15000+600000
+ 8810 strings out of 493014
+ 136147 string characters out of 6133351
+ 316316 words of memory out of 5000000
+ 12057 multiletter control sequences out of 15000+600000
  12014 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,10n,66p,8483b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,10n,66p,8483b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on main.pdf (61 pages, 304000 bytes).
+Output written on main.pdf (61 pages, 314828 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 754 PDF objects out of 1000 (max. 8388607)
+ 672 compressed objects within 7 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 654 words of extra memory for PDF output out of 10000 (max. 10000000)
 
