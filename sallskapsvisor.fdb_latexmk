@@ -1,12 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1487002811 "sallskapsvisor.tex" "sallskapsvisor.pdf" "sallskapsvisor" 1487002812
+["pdflatex"] 1487327800 "sallskapsvisor.tex" "sallskapsvisor.pdf" "sallskapsvisor" 1487327802
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1136768653 1532 9162035f4e7176612125649e348e2195 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
+  "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1486994424 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1486994522 3873397 aa9c19f94ca0fa5c38ff676415358739 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "sallskapsvisor.aux" 1487002678 1837 d4822cbab4bacdb018b48d143f82e03b ""
-  "sallskapsvisor.tex" 1487002806 4332 a227f8f863a314fbdaf36442c257b370 ""
+  "sallskapsvisor.aux" 1487238520 2696 77d48c3eb965b71a3d181c695eccd261 ""
+  "sallskapsvisor.tex" 1487327798 13074 15fcbf96f3bf3c698f170f0175908325 ""
   (generated)
-  "sallskapsvisor.log"
   "sallskapsvisor.pdf"
+  "sallskapsvisor.log"
